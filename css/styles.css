@@ -1,0 +1,11 @@
+.def {
+  display: none;
+}
+
+.shown {
+  visibility: visible;
+}
+
+.hidden {
+  visibility: none;
+}
